@@ -1,0 +1,52 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+[Ww]eb[Bb]uild/*
+[Ww]indows[Bb]uild/*
+
+*.stackdump
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Unity3D generated meta files
+*.pidb.meta
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+*.tmp
+*.userprefs
+*.csproj
+*.suo
+*.sln*
+*.user
+*.unityproj
+*.log
+*.svd
+
+# Ignore UnityVS so users can use different versions
+UnityVS/*
+UnityVS**
+.vs/
+
+# ignoring pidb, they are just code completion caching data according to:
+# http://stackoverflow.com/questions/1022111/what-are-monodevelops-pidb-files
+*.pidb
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+*.coverage
